@@ -1,0 +1,14 @@
+/* ----------------------------------for home page  */
+.home,
+.contact {
+  margin-top: 5rem;
+}
+
+/* ----------------------------------for contact page  */
+/* .contact {
+  margin-top: 5rem;
+} */
+
+.white-text {
+  color: #fff;
+}
