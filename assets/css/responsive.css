@@ -64,8 +64,13 @@
 
   .footer-first-section,
   .footer-links,
-  .footer-social-media {
+  .footer-social-media,
+  .footer-suggestion-form {
     width: 100%;
     margin-bottom: 20px;
+  }
+
+  .footer-suggestion-form {
+    margin-top: 20px;
   }
 }

@@ -10,12 +10,13 @@
   --white-color: #fff;
 
   /* Additional utility variables */
-  --box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; /* Box shadow for elements */
-  --border-color: #ccc; /* Default border color */
-  --input-bg: #f9f9f9; /* Input background color */
-  --primary-button-bg: #007bff; /* Primary button background */
-  --primary-button-hover-bg: #0056b3; /* Primary button hover background */
-  --footer-bg: #1a1a1a; /* Footer background */
+  --box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  --border-color: #ccc;
+  --input-bg: #f9f9f9;
+  --primary-button-bg: #007bff;
+  --primary-button-hover-bg: #0056b3;
+  --footer-bg: #1a1a1a;
+  --border-color-white: #fff;
 }
 
 /* Dark mode theme variables */
@@ -27,10 +28,10 @@ body.dark {
   --search-bar: #242526;
 
   /* Dark mode specific utility variables */
-  --box-shadow: rgba(0, 0, 0, 0.3) 0px 7px 29px 0px; /* Dark mode box shadow */
-  --border-color: #444; /* Dark mode border color */
-  --input-bg: #333; /* Dark mode input background */
-  --primary-button-bg: #0069d9; /* Dark mode primary button background */
-  --primary-button-hover-bg: #004085; /* Dark mode primary button hover background */
-  --footer-bg: #18191a; /* Dark mode footer background */
+  --box-shadow: rgba(0, 0, 0, 0.3) 0px 7px 29px 0px;
+  --border-color: #444;
+  --input-bg: #333;
+  --primary-button-bg: #0069d9;
+  --primary-button-hover-bg: #004085;
+  --footer-bg: #18191a;
 }
